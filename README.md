@@ -1,6 +1,6 @@
 # RPA_and_BI_real_case_Mockup_July024
 
-  This repository stores code for Robotics Process Automation Using Python  & Dashbord representation in 2024 (which be anonymized from real-world project in that year)
+  This repository stores code for Robotics Process Automation Using Python  & Dashbord representation in 2024 (which be anonymized from real-world project in that year).
   It consists of
   - WATSON's Product Data Collection (ALL Products in Pre-determined Category :  Makeup Product ) that page range to be scraped can be specified by User 
   - WATSON's Product Data Collection (from User Specified Search Keyword)
